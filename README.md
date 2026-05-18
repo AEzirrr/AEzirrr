@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+# My name is Marlou Vincent S. Ruiz. I am a Game Development student from De La Salle University.
+📫 How to reach me:
+Email: mvincent8403@gmail.com
+LinkedIn: Marlou Vincent Ruiz
+Itch.io: Marlou Ruiz
 <!--
 **AEzirrr/AEzirrr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
