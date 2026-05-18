@@ -1,9 +1,9 @@
 ## Hi there 👋
 
-[cite_start]My name is Marlou Vincent S. Ruiz[cite: 1]. [cite_start]I am a Game Development student from De La Salle University[cite: 9].
+My name is Marlou Vincent S. Ruiz. I am a Game Development student from De La Salle University.
 
 📫 **How to reach me:**
-* [cite_start]**Email:** mvincent8403@gmail.com [cite: 4]
+* **Email:** mvincent8403@gmail.com
 * **LinkedIn:** Marlou Vincent Ruiz
 * **Itch.io:** Marlou Ruiz
 <!--
